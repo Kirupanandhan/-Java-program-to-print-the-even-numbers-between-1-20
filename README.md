@@ -36,7 +36,6 @@ public class EvenNumbers {
 }
 ```
 ## Output:-
-![image](https://github.com/SarankumarJ/Java-Ex-04/assets/94778101/abdf1b75-fb10-4a0f-bd30-8a5715e8d734)
-
+![image](https://github.com/Kirupanandhan/-Java-program-to-print-the-even-numbers-between-1-20/assets/94386222/0a8499a2-b1a3-476f-a65a-b21462b71103)
 ## Result:-
 A java program to print the even numbers between 1-20 has been executed successfully.
